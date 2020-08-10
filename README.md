@@ -38,7 +38,7 @@ Project code is avalaible in Loan_default_SBA.ipynb file. To execute the code pl
 
 # Project description
 
-The goal of the project was to create an effective model being able to predict if loan will be repaid by borrower or not, therefore if bank should grant a loan. Dataset used in the project contains real SBA data concerning borrower and loan itself, however it does not include financial information about the company applying for a loan.
+The goal of the project was to create an effective model being able to predict if loan will be repaid by borrower or not, therefore if bank should grant a loan. Dataset used in the project contains real SBA data describing borrower and loan itself, however it does not include financial information about the company applying for a loan.
 
 The project consists of two parts: prepocessing including feature engineering, data cleaning, data exploring, data visualizations and machine learning including data preparation, models building, models validation and hyperparameters tuning, models evaluation, models dump.
 
