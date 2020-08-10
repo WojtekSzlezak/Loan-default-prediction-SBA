@@ -34,7 +34,7 @@ Please use download button, unzip file and upload SBAnational.csv to your Google
 
 ### Code
 
-Project code is avalaible in Loan_default_SBA.ipynb file. To execute code please add file to the google drive and open it in Google Colaboratoryn or open the file directly from github using 'Open in colab' button. Then please upload the dataset (please see above) and use 'Run all' option in 'Runtime' menu.
+Project code is avalaible in Loan_default_SBA.ipynb file. To execute the code please add file to the google drive and open it in Google Colaboratory or open the file directly from github using 'Open in colab' button. Then please upload the dataset (please see above) and use 'Run all' option in 'Runtime' menu.
 
 # Project description
 
