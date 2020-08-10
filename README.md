@@ -36,7 +36,7 @@ Please use download button, unzip file and upload SBAnational.csv to your Google
 
 Project code is avalaible in Loan_default_SBA.ipynb file. To execute code please add file to the google drive, open it in Google Colaboratory, upload dataset (please see above) and use 'Run all' option in 'Runtime' menu.
 
-# Introduction
+# Project description
 
 The goal of the project was to create an effective model being able to predict if loan will be repaid by borrower or not, therefore if bank should grant a loan. Dataset used in the project contains real SBA data concerning borrower and loan itself, however it does not include financial information about the company applying for a loan.
 
