@@ -38,5 +38,12 @@ Project code is avalaible in Loan_default_SBA.ipynb file. To execute code please
 
 # Introduction
 
+The goal of the project was to create an effective model being able to predict if loan will be repaid by borrower or not, therefore if bank should grant a loan. Dataset used in the project contains real SBA data concerning borrower and loan itself, however it does not include financial information about the company applying for a loan.
+
+The project consists of two parts: prepocessing including feature engineering, data cleaning, data exploring, data visualizations and machine learning including preparing data for modelling, models building, models validation and hyperparameters tuning, models evaluation.
 
 # Summary
+
+Best results from all of the models used in the project (logistic regression, decision tree, XGBoost, and K-nearest neighbors classifiers) was achieved by decision tree classifier with 75% value of the threshold. The f1 score and false negative rate metrics were used to evaluate the model as classification risk in project problem is not symmetrical, therefore accuracy metric is not sufficient for evaluation.
+
+The best model obtained 93% in the f1-score metric. False negative rate for the model is about 11%.
