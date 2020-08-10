@@ -46,4 +46,4 @@ The project consists of two parts: prepocessing including feature engineering, d
 
 Best results from all of the models used in the project (logistic regression, decision tree, XGBoost, and K-nearest neighbors classifiers) was achieved by decision tree classifier with 75% value of the threshold. The f1 score and false negative rate metrics were used to evaluate the model as classification risk in project problem is not symmetrical, therefore accuracy metric is not sufficient for purpose of evaluation.
 
-The best model obtained 93% in the f1-score metric. False negative rate for the model was about 11%.
+The best model obtained 93% in the f1 score metric. False negative rate for the model was about 11%.
