@@ -1,6 +1,6 @@
 # Loan-default-prediction-SBA
 
-Data science project containing preprocessing and machine learning - predicting default in SBA loans.
+Data science project containing data cleaning, exploratory data analysis and machine learning - predicting default in SBA loans.
 
 # Requirements
 
