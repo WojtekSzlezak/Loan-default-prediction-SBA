@@ -15,7 +15,7 @@ Following packages were used:
 - Sklearn 0.22.2.post1
 - Plotly 4.4.1
 - Matplotlib 3.2.2
-- Seaborn 0.10.1
+- Seaborn 0.11.0
 - Scipy 1.4.1
 - Xgboost 0.90
 - Joblib 0.16.0
